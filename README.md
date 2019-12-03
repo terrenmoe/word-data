@@ -1,9 +1,16 @@
 <h1>word-data</h1>
+
+The files allWordList and botWordList are sorted alphanumerically.
+The file topWordList is sorted by frequency of usage.
+The files botWordList and topWordList together form allWordList.
+The sorted dir contains topWordList split by letter then, well you know.
+The frequency dir is also topWordList split by letter but originally ordered.
+
 A table of the line delimited files for this repo.
 <table>
   <thead>
-    <th>newline</th>
-    <th>word</th>
+    <th>newlines</th>
+    <th>words</th>
     <th>chars</th>
     <th>bytes</th>
     <th>maximum line length</th>

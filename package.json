@@ -1,0 +1,32 @@
+{
+  "name": "word-data",
+  "version": "1.0.0",
+  "description": "a module for wordData",
+  "main": "src/index.js",
+  "bin": {
+    "word-data": "wordData.js"
+  },
+  "scripts": {
+    "test": "echo 'Nope'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrenmoe/word-data.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "js",
+    "module",
+    "word",
+    "words",
+    "frequency",
+    "wordData"
+  ],
+  "author": "Alex Rossiter <terrenmoe@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/terrenmoe/word-data/issues"
+  },
+  "homepage": "https://github.com/terrenmoe/word-data#readme"
+}
